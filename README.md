@@ -46,7 +46,7 @@ A modern, interactive, and informative platform that effectively communicates th
 
 ## **Tech Stack**
 - **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript  
-- **Images & Media:** JPG, PNG, MP4 (Hero video)  
+- **Images & Media:** JPG, PNG 
 - **Forms / Backend (Optional):** PHP, XAMPP/WAMP for local testing  
 - **Deployment:** GitHub Pages, Netlify, or Vercel  
 
@@ -94,15 +94,7 @@ A modern, interactive, and informative platform that effectively communicates th
 
 ### footer section
 ![footer](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/32870c16f24b3e5ea77e7fe77d5cb5235a62cc6b/Screenshot%202025-09-07%20135925.png)
-
-### Contact Page
-![Contact](images/contact-placeholder.png)
-
-
-
-*(Replace placeholder images with actual screenshots of your website)*
-
----
+![Contact](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/7b115e43943b8a1b796655b2bff6605d74ba99e6/Screenshot%202025-09-07%20135944.png)
 
 ## **Setup and Run Instructions (Windows)**
 
