@@ -57,14 +57,33 @@ A modern, interactive, and informative platform that effectively communicates th
 ![Home Page](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/96692f5988a2934b590711391890bca87137f547/Screenshot%202025-09-07%20135424.png)
 
 ### About us Section
-![Programs](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/96692f5988a2934b590711391890bca87137f547/Screenshot%202025-09-07%20135451.png)
+![About us](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/96692f5988a2934b590711391890bca87137f547/Screenshot%202025-09-07%20135451.png)
 
 ### Programs section
-![Testimonials & Team](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/29118c45b26f080da6c692a0a93dddb3e6795549/Screenshot%202025-09-07%20135509.png)
+![Programs](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/29118c45b26f080da6c692a0a93dddb3e6795549/Screenshot%202025-09-07%20135509.png)
 
-### Donate Page
-![Donate](images/donate-placeholder.png)
+### Partnership section 
+![Partnership](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/aed539fd3c4439ab40435c2ef67ea416a8681823/Screenshot%202025-09-07%20135537.png)
 
+### Contact Page
+![Contact](images/contact-placeholder.png)
+
+### Contact Page
+![Contact](images/contact-placeholder.png)
+
+### Contact Page
+![Contact](images/contact-placeholder.png)
+
+### Contact Page
+![Contact](images/contact-placeholder.png)
+
+### Contact Page
+![Contact](images/contact-placeholder.png)
+
+### Contact Page
+![Contact](images/contact-placeholder.png)
+### Contact Page
+![Contact](images/contact-placeholder.png)
 ### Contact Page
 ![Contact](images/contact-placeholder.png)
 
