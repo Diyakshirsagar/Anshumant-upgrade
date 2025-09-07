@@ -72,7 +72,10 @@ A modern, interactive, and informative platform that effectively communicates th
 ### Event section
 ![Event Section](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/b5419088440fc14996be5818e397d6174f9fd9dd/Screenshot%202025-09-07%20135635.png)
 ![Event Section](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/e4243fa6b1dc8d5ce46068ee93120f6c2daab8a4/Screenshot%202025-09-07%20135706.png)
-![Event Section](images/contact-placeholder.png)
+
+### Volunteer section
+![Volunteer](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/a048883ac8dcbeb8bf89926398ef35024bd9fa32/Screenshot%202025-09-07%20135724.png)
+![Contact](images/contact-placeholder.png)
 
 ### Contact Page
 ![Contact](images/contact-placeholder.png)
