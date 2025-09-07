@@ -56,8 +56,8 @@ A modern, interactive, and informative platform that effectively communicates th
 ### Home Page
 ![Home Page](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/96692f5988a2934b590711391890bca87137f547/Screenshot%202025-09-07%20135424.png)
 
-### Programs Section
-![Programs](images/programs-placeholder.png)
+### About us Section
+![Programs](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/96692f5988a2934b590711391890bca87137f547/Screenshot%202025-09-07%20135451.png)
 
 ### Testimonials & Team
 ![Testimonials & Team](images/testimonials-team-placeholder.png)
