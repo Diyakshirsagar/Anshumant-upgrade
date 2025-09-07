@@ -92,14 +92,13 @@ A modern, interactive, and informative platform that effectively communicates th
 ### Donate Section
 ![Donat](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/1d17310fd85c810977ac5a7e14d281b12b029f14/Screenshot%202025-09-07%20135912.png)
 
-### fotter section
-![Contact](images/contact-placeholder.png)
+### footer section
+![footer](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/32870c16f24b3e5ea77e7fe77d5cb5235a62cc6b/Screenshot%202025-09-07%20135925.png)
 
 ### Contact Page
 ![Contact](images/contact-placeholder.png)
 
-### Contact Page
-![Contact](images/contact-placeholder.png)
+
 
 *(Replace placeholder images with actual screenshots of your website)*
 
