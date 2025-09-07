@@ -83,7 +83,7 @@ A modern, interactive, and informative platform that effectively communicates th
 
 ### News,Articles section
 ![News,Articles](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/d723f9248d2e73a23b1e379cd507b554486712f1/Screenshot%202025-09-07%20135818.png)
-![News,Articles](images/contact-placeholder.png)
+![News,Articles](https://github.com/Diyakshirsagar/Anshumant-upgrade/blob/885bdb896bad469095ad7227a6bb56e335ac15a5/Screenshot%202025-09-07%20135829.png)
 
 ### Contact Page
 ![Contact](images/contact-placeholder.png)
